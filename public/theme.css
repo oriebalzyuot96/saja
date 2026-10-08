@@ -20,7 +20,7 @@
 }
 .c-grid.c-grid-2{grid-template-columns:repeat(2,minmax(0,1fr));max-width:720px;margin-inline:auto}
 @media (max-width:620px){.c-grid.c-grid-2{grid-template-columns:1fr}}
-.t-photo img{object-position:50% 20%}
+.t-photo img{object-position:32% 20%}
 /* bento for this site: no video tile, a certificate tile instead */
 .bento.bento-p{grid-template-areas:
   "photo years now   now"
